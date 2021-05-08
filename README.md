@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2 align="center">👋 Hello! I'm hukkai.</h2>
 
 <!--
