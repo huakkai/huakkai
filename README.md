@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 -------
 
-- 🔭 I’m currently working on Inspur
-- 🌱 I’m currently learning RabbitMQ
+- 🔭 I’m currently working on <a href="https://www.inspur.com"><img alt="Inspur" src="https://img.shields.io/badge/-Inspur-brightgreen" /></a>
+- 🌱 I’m currently learning <a href="https://www.rabbitmq.com/"><img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-green" /></a>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
