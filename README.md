@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 25 May, 2021 - 01 June, 2021
+Week: 26 May, 2021 - 02 June, 2021
 
 Python       1 hr 40 mins    ██████████████▓░░░░░░░░░░   58.94 % 
 XML          42 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.94 % 
