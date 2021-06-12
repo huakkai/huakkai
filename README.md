@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 03 June, 2021 - 10 June, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
