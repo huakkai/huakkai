@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 18 June, 2021 - 24 June, 2021
+Week: 19 June, 2021 - 25 June, 2021
 
 html_es6         23 mins         ████████████▓░░░░░░░░░░░░   50.83 % 
 JSON             20 mins         ██████████▓░░░░░░░░░░░░░░   43.18 % 
