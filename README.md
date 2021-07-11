@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 03 July, 2021 - 09 July, 2021
+Week: 04 July, 2021 - 10 July, 2021
 
 Markdown   56 mins         ███████████████░░░░░░░░░░   60.26 % 
 Python     18 mins         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
